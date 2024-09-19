@@ -2,8 +2,6 @@ import turtle
 
 import pandas as pd
 
-import pytest
-
 #Find the Item in the list
 def find(mylist, name):
     try:
